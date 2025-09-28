@@ -1,0 +1,2 @@
+# Accessor
+NSBundleResourceRequest extension
